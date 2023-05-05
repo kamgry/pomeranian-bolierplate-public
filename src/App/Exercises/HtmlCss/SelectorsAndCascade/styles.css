@@ -1,0 +1,11 @@
+.selectors-and-cascade {
+  background-color: red;
+}
+
+.selectors-and-cascade div:first-child {
+  background-color: green;
+}
+
+.selectors-and-cascade {
+  background-color: yellow;
+}

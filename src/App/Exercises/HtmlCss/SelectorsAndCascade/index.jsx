@@ -1,5 +1,14 @@
 import './styles.css';
 
 export function SelectorsAndCascade() {
-  return <p>HTML & CSS - Kaskadowość, specyficzność i dziedziczenie</p>;
+  return (
+    <div className="selectors-and-cascade">
+      <div>Jestem bardzo unikalnym elementem</div>
+      <div>Jestem bardzo unikalnym elementem</div>
+      <div>Jestem bardzo unikalnym elementem</div>
+      <div>Jestem bardzo unikalnym elementem</div>
+      <div>Jestem bardzo unikalnym elementem</div>
+      <div>Jestem bardzo unikalnym elementem</div>
+    </div>
+  );
 }
